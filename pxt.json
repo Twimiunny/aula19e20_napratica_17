@@ -1,5 +1,6 @@
 {
     "name": "Aula19e20_Napratica_17",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
